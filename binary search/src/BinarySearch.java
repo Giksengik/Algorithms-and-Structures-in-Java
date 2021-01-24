@@ -1,3 +1,6 @@
+import java.util.Collection;
+import java.util.Queue;
+
 public class BinarySearch {
     public static int search (int [] array, int key) {
         int lo=0;
@@ -14,4 +17,5 @@ public class BinarySearch {
     public static void main(String[] args) {
 
     }
+
 }
