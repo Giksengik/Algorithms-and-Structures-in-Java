@@ -1,4 +1,4 @@
-package ru.csc.java2014.yar;
+
 
 import java.io.IOException;
 import java.nio.file.*;
